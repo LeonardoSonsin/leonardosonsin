@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Leonardo Sonsin, estudante de Sistemas de Informação!
 
-- 🔭 Hoje eu trabalho com desenvolvimento Mobile
+- 🔭 Atualmente trabalhando com desenvolvimento Mobile
 - 🌱 Estudando Flutter/Dart
 
 <div align="center">
