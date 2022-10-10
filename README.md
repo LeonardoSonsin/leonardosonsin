@@ -1,4 +1,4 @@
-### Olá! Eu sou o Leonardo Sonsin, estudante de Sistemas de Informação!
+### Olá! Eu sou o Leonardo, estudante de Sistemas de Informação!
 
 - 🔭 Atualmente trabalhando com desenvolvimento Mobile
 - 🌱 Estudando Flutter/Dart
