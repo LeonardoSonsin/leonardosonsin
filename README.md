@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Leonardo, estudante de Sistemas de Informação!
 
+- 🎓 Sistemas de Informação (UNIVEM)
 - 🔭 Atualmente trabalhando com desenvolvimento Mobile
 - 🌱 Estudando Flutter/Dart
 
