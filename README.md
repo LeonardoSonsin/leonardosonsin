@@ -1,4 +1,4 @@
-### Olá! Eu sou o Leonardo, estudante de Sistemas de Informação!
+### Olá! Eu sou o Leonardo!
 
 - 🎓 Sistemas de Informação (UNIVEM)
 - 📱 Atualmente trabalhando com desenvolvimento Mobile
